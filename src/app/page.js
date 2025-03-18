@@ -1,5 +1,5 @@
 export default function Home() {
-  const labs = Array.from({ length: 5 }, (_, i) => i + 1);
+  const labs = Array.from({ length: 6 }, (_, i) => i + 1);
 
   return (
     <div className="min-h-screen bg-gray-100 p-8 font-sans">

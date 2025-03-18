@@ -1,7 +1,7 @@
 import Cart from "@/components/Cart/Cart"
-import { CartProvider } from "@/components/contexts/CartContext"
+import { CartProvider } from "@/contexts/CartContext"
 
-export default function PageLabs4() {
+export default function PageLabs5() {
     return (
         <CartProvider>
             <Cart/>
